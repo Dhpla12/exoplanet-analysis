@@ -63,11 +63,9 @@ rade_quality : True if radius uncertainty <30% and errors present
 ## Citation
 If you use this notebook or the filtered dataset in your work, please cite:
 
-Haldikar, A. (2026). Exoplanet Demographic Analysis [Computer software].
-- GitHub. https://github.com/Dhpla12/exoplanet-analysis
+Haldikar, A. (2026). Exoplanet Demographic Analysis [Computer software]. GitHub. https://github.com/Dhpla12/exoplanet-analysis
 
-Haldikar, A. (2026). The filtered dataset with quality flags is archived at **Harvard Dataverse**:
-- DOI: [10.7910/DVN/WQGSNE](https://doi.org/10.7910/DVN/WQGSNE)
+Haldikar, A. (2026). Filtered Exoplanet Dataset with Quality Flags [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/WQGSNE
 
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
