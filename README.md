@@ -38,7 +38,7 @@ jupyter notebook ExoplanetAnalysis.ipynb
 
 Run all cells sequentially. The final cell will generate exoplanet_data_with_quality.csv and offer a download link.
 
-Data Source
+## Data Source
 All original data are from the NASA Exoplanet Archive:
 
 Planetary Systems Table (ps) – DOI: 10.26133/NEA13
@@ -47,9 +47,9 @@ Accessed: March 2026
 
 The filtered dataset with quality flags is archived at Harvard Dataverse:
 
-DOI: 10.7910/DVN/XXXXXX 
+DOI: 10.7910/DVN/WQGSNE
 
-Output
+## Output
 exoplanet_data_with_quality.csv – Contains 6,128 rows (one per confirmed planet) with the following added columns:
 
 mass_frac_err : fractional mass uncertainty (NaN if errors missing)
@@ -60,7 +60,7 @@ mass_quality : True if mass uncertainty <30% and errors present
 
 rade_quality : True if radius uncertainty <30% and errors present
 
-Citation
+## Citation
 If you use this notebook or the filtered dataset in your work, please cite:
 
 Haldikar, A. (2026). Exoplanet Demographic Analysis [Computer software].
@@ -69,5 +69,5 @@ Haldikar, A. (2026). Exoplanet Demographic Analysis [Computer software].
 Haldikar, A. (2026). The filtered dataset with quality flags is archived at **Harvard Dataverse**:
 - DOI: [10.7910/DVN/WQGSNE](https://doi.org/10.7910/DVN/WQGSNE)
 
-License
+## License
 This project is licensed under the MIT License – see the LICENSE file for details.
